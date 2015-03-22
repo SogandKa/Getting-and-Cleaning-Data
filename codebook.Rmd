@@ -1,5 +1,7 @@
 "variables"
 "1" "subject"
+
+
 "2" "activity"
 "3" "timeBodyAccelerometer-mean()-X"
 "4" "timeBodyAccelerometer-mean()-Y"
